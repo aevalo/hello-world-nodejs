@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "request": "^2.83.0",
-    "tape": "^4.9.0"
+    "tape": "^4.9.0",
+    "webpack": "^4.0.1"
   }
 }
